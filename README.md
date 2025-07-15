@@ -1,12 +1,12 @@
 Add the following details to your README file using Markdown language:
 
-    Your full name
+    Full name: `Julian Dominguez``
 
-    Your UNC Charlotte's email address
+    UNCC email: `jdomin14@charlotte.edu`
 
-    Your UNC Charlotte's ID number
+    UNCC ID number: `801450236`
 
-    Your GitHub user name.
+    GitHub user name: `JukeHub`
 
     The name of this activity
 
