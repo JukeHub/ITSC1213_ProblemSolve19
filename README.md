@@ -8,10 +8,10 @@ Add the following details to your README file using Markdown language:
 
     GitHub user name: JukeHub
 
-    The name of this activity
+    The name of this activity: Problem Solve 19 and 20
 
-    An explanation of the RectangleTest.java program, in plain English. This should be a complete and detailed explanation of the code and what it does.
+    RectangleTest.java takes user input (width and height), caulculates the area, and uses if statements to compare it to what the area should be. 
 
-    An explanation of the Circle.java program, in plain English. This should be a complete and detailed explanation of the code and what it does.
+    Circle.java contains two constructors, and methods that allow you to get the radius, color, and area of a circle.
 
-    The URL for your private project in GitHub.
+    GitHub URL for Problem Solve 19 and 20: https://github.com/JukeHub/ITSC1213_ProblemSolve19
