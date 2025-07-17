@@ -1,7 +1,12 @@
-import java.util.Scanner;
 import java.awt.Rectangle;
+import java.util.Scanner;
 
 public class RectangleTest {
+    private int expectedArea;
+
+    public int getRectangleArea(int width, int height) {
+       return expectedArea = width * height;
+}
     public static void main(String[] args) {
         // new code
         Scanner input = new Scanner(System.in);
