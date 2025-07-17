@@ -3,9 +3,16 @@ import java.util.Scanner;
 
 public class RectangleTest {
     private int expectedArea;
+    private int area = 2500;
 
     public int getRectangleArea(int width, int height) {
-       return expectedArea = width * height;
+        expectedArea = width * height;
+        if (area == expectedArea) {
+            System.out.println("++++ Test passed: Area is correct.");
+        } else {
+            System.out.println("---- Test failed: Expected " + expectedArea + " but got " + area);
+        }
+ return expectedArea;
 }
     public static void main(String[] args) {
         // new code
@@ -19,6 +26,9 @@ public class RectangleTest {
         // Rectangle box1 = new Rectangle(10, 10, 40, 30);
         Rectangle box1 = new Rectangle(10, 10, width, height);
         System.out.println("box1: " + box1);
+        
+        box1.getRectangleArea(width, height);
+        
     }
 
 }
